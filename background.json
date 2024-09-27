@@ -1,12 +1,12 @@
 {
   "name": "Purple Skylight",
-  "version": "1.2",
-  "description": "Orignal Author For BetterDiscord Theme: Gibbu#1211",
-  "color": "#000000",
+  "version": "1.0",
+  "description": "Nice Cloudy Skylight.",
+  "color": "#BF77F6",
   "authors": [
     {
-      "name": "mxdhav",
-      "id": "757530324686340197"
+      "name": "mrdavidss",
+      "id": "959880218263310406"
     }
    ],
    "theme_color_map": {
